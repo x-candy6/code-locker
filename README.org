@@ -1,0 +1,20 @@
+#+TITLE: Code Locker
+
+* Overview
+A simple script to encrypt and decrypt various scripts.
+Future iterations include:
+- Encapsulating the code into a python app for ease-of-use.
+- Support for multiple code pieces and encryption/decryption for full apps
+
+* How to use
+Encrypting files:
+- python encrypt.py
+- Enter the pathname of the file to be encrypted.
+- Enter the password.
+
+Decrypting files:
+- python decrypt.py
+- Enter file to be decrypted
+- Enter password.
+
+
